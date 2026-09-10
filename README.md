@@ -30,7 +30,7 @@ Não é necessário possuir PHP, Composer, MySQL ou Redis instalados localmente.
 Clone o repositório e entre no diretório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/michelv92/sales-points-api.git
 cd sales-points-api
 ```
 
